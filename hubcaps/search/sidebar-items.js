@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SearchIssuesSort","Sort directions for pull requests"]],"struct":[["Search",""],["SearchIssues",""]]});

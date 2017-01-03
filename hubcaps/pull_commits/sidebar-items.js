@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PullCommits","A structure for interfacing with a pull commits"]]});
